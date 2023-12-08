@@ -1,0 +1,3 @@
+[submodule "go/modules/go-core"]
+	path = go/modules/go-core
+	url = https://github.com/sotigr/go-core.git
